@@ -10,7 +10,7 @@ body {
     background-color: #1D1F20;
     position: relative;
     top: 20%;
-    margin: 100px 600px;
+    margin: auto;
     width: 340px;
     height: 445px;
     border-radius: 0.35em;
@@ -22,7 +22,7 @@ body {
     background-color: #1D1F20;
     position: relative;
     top: 20%;
-    margin: 100px 600px;
+    margin: auto;
     width: 340px;
     height: 480px;
     border-radius: 0.35em;
